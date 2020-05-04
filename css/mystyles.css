@@ -1,0 +1,61 @@
+
+img.avatar{
+    border-radius: 50%;
+}
+
+   body { 
+      font-size: 1.1em; 
+   }
+
+       { 
+      font-size: 1.1em; 
+   }
+
+a.class1 {color:currentColor;}
+a.class1:link {text-decoration: none; color: currentColor;}
+a.class1:visited {text-decoration: none; color: currentColor;}
+a.class1:hover {text-decoration: none; color: currentColor; background: hsl(171, 100%, 80%)}
+a.class1:active {text-decoration: none; color: currentColor;}
+
+a.class2 {color:currentColor;}
+a.class2:link {text-decoration: none; color: none; background: hsl(60, 100%, 90%)}
+a.class2:visited {text-decoration: none; color: currentColor; background: hsl(60, 100%, 90%)}
+a.class2:hover {text-decoration: none; color: currentColor; background: hsl(60, 100%, 90%)}
+a.class2:active {text-decoration: none; color: currentColor; background: hsl(60, 100%, 90%)}
+
+a.class3 {color:currentColor;}
+a.class3:link {text-decoration: underline hsl(180, 100%, 95%); color: currentColor;}
+a.class3:visited {text-decoration: none; color: currentColor;}
+a.class3:hover {text-decoration: none; color: currentColor; background: hsl(180, 100%, 90%)} blue
+a.class3:active {text-decoration: none; color: currentColor;}
+
+a.class4 {color:currentColor;}
+a.class4:link {color: currentColor;}
+a.class4:visited {text-decoration: none; color: currentColor;}
+a.class4:hover {text-decoration: none; color: currentColor; background: hsl(60, 100%, 90%)} yellow
+a.class4:active {text-decoration: none; color: currentColor;}
+
+
+.hero .classebook {
+  background-color: hsl(150, 2%, 94%);
+}
+
+.hero .classbreakthrough {
+  background-color: hsl(180, 100%, 90%);
+}
+
+
+  u {
+    text-decoration: none;
+    border-bottom: 10px solid hsl(171, 100%, 80%); blue
+  }
+
+    u2 {
+    text-decoration: none;
+    border-bottom: 10px solid hsl(60, 100%, 90%); yellow
+  }
+
+green #36D1B2
+hover green #32C4A7
+yellow #FEDE2E
+
