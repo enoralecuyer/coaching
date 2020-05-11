@@ -19,5 +19,9 @@ My previous coaching business website built in 2017.
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer 
+
+## License
+
+MIT License
 
