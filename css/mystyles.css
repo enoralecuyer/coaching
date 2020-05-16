@@ -3,13 +3,9 @@ img.avatar{
     border-radius: 50%;
 }
 
-   body { 
-      font-size: 1.1em; 
-   }
-
-       { 
-      font-size: 1.1em; 
-   }
+body { 
+  font-size: 1.1em; 
+}
 
 a.class1 {color:currentColor;}
 a.class1:link {text-decoration: none; color: currentColor;}
@@ -45,17 +41,17 @@ a.class4:active {text-decoration: none; color: currentColor;}
 }
 
 
-  u {
-    text-decoration: none;
-    border-bottom: 10px solid hsl(171, 100%, 80%); blue
-  }
+u {
+  text-decoration: none;
+  border-bottom: 10px solid hsl(171, 100%, 80%);
+}
 
-    u2 {
-    text-decoration: none;
-    border-bottom: 10px solid hsl(60, 100%, 90%); yellow
-  }
+/* u2 {
+  text-decoration: none;
+  border-bottom: 10px solid hsl(60, 100%, 90%); yellow
+} */
 
-green #36D1B2
+/* green #36D1B2
 hover green #32C4A7
 yellow #FEDE2E
-
+ */
