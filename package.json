@@ -61,6 +61,7 @@
     "https-proxy-agent": "^2.2.3",
     "lodash": "^4.17.21",
     "mem": "^6.1.0",
+    "meow": "^10.0.1",
     "minimist": "^1.2.5",
     "postcss": "^8.2.10",
     "randomatic": "^3.0.0",
@@ -68,6 +69,7 @@
     "ssri": "^8.0.1",
     "tar": "^2.2.2",
     "tar-fs": "^1.16.2",
-    "tough-cookie": "^2.3.3"
+    "tough-cookie": "^2.3.3",
+    "trim-newlines": "^4.0.2"
   }
 }
